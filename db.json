@@ -1,0 +1,58 @@
+{
+  "kimetsu_no_yaib": [
+    {
+      "id": 1,
+      "rango": "Pilar",
+      "nombre": "Shinobu Kocho",
+      "poder": "Insecto"
+    },
+    {
+      "id": 2,
+      "rango": "Pilar",
+      "nombre": "Tengen Uzui",
+      "poder": "Sonido"
+    },
+    {
+      "id": 3,
+      "rango": "Pilar",
+      "nombre": "Mitsuri Kanroji",
+      "poder": "Amor"
+    },
+    {
+      "id": 4,
+      "rango": "Pilar",
+      "nombre": "Muichiro Tokito",
+      "poder": "Niebla"
+    },
+    {
+      "id": 5,
+      "rango": "Pilar",
+      "nombre": "Kyojuru Rengoku",
+      "poder": "Fuego"
+    },
+    {
+      "id": 6,
+      "rango": "Pilar",
+      "nombre": "Giyu Tomioka",
+      "poder": "Agua"
+    },
+    {
+      "id": 7,
+      "rango": "Pilar",
+      "nombre": "Obanai Iguro",
+      "poder": "Serpiente"
+    },
+    {
+      "id": 8,
+      "rango": "Pilar",
+      "nombre": "Sanemi Shinazugawa",
+      "poder": "Viento"
+    },
+    {
+      "id": 9,
+      "rango": "Pilar",
+      "nombre": "Gyomei Himejima",
+      "poder": "Roca"
+    }
+  ]
+}
